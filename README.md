@@ -18,3 +18,5 @@
 
 ### 인스타그램 계정
 * zzang_99_7
+### 메일 주소
+* bbizzimi34@naver.com
